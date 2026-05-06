@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+.gemini/tmp/
+.gemini/cache/
+.rad/tmp/
+.rad/cache/
+.DS_Store
+Thumbs.db
+*.log
