@@ -2,7 +2,9 @@
 .env.*
 !.env.example
 .gemini/
-.rad/
+.rad/*
+!.rad/skills/
+!.rad/skills/**
 .DS_Store
 Thumbs.db
 *.log
